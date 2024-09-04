@@ -12,7 +12,7 @@ This is the frontend for the jumble engine which allows users to create game sta
 
 - React
 - React Bootstrap
-- Boostrap
+- Bootstrap
 - React Hook Form
 - Yup
 - Jest
