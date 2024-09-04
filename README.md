@@ -3,7 +3,7 @@
 # Jumble Engine Frontend
 
 ## Description
-This is the frontend for the todolist app, which allows users to create , read, update, delete tasks with additional security , such as being able to create an account for security
+This is the frontend for the junble engine which allows users to create game state, and guess the word
 
 ## Tech Stack
 - React
