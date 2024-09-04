@@ -3,7 +3,7 @@
 # Jumble Engine Frontend
 
 ## Description
-This is the frontend for the junble engine which allows users to create game state, and guess the word
+This is the frontend for the jumble engine which allows users to create game state, and guess the word
 
 ## Tech Stack
 - React
